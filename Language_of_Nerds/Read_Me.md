@@ -1,0 +1,1 @@
+I wanted to compare the nomenclature used in Computer Science, Mathematics and Statistics research papers using LDA topic analysis and Word2Vec.  The blog post of my results will soon be posted [here](www.kendallgillies.github.io). 
